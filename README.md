@@ -16,7 +16,13 @@ but to attempt to maintain "game balance" by replacing parts of the monsters tha
 ## Special Thanks
 
 callmeverity (on discord)
+
 philmatic (on discord)
+
+bizzlemip (on discord and some code)
+
 me
+
 you
+
 the internet
