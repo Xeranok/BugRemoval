@@ -10,7 +10,7 @@ Requires BepInEx and LC_API
 
 ## Information
 
-This mod was made for a friend with emotophobia, not necessarily to make the bugs just get removed like the arachnophobia mod,
+This mod was made for a friend with entomophobia, not necessarily to make the bugs just get removed like the arachnophobia mod,
 but to attempt to maintain "game balance" by replacing parts of the monsters that make them too scary.
 
 ## Special Thanks
